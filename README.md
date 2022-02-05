@@ -6,6 +6,8 @@ Jeu de bataille navale - Battleship
 VU Nguyen Phuong Vy - 21911658\
 L2 Informatique - Groupe 2A - Année 2020-2021
 
+![cap-3](https://user-images.githubusercontent.com/74190308/152659505-43897f37-fa24-4b83-aca0-48264817292c.png)
+
 ## Installation
 
 Réquire Java SE Development Kit, on peut télécharger sur le site:
